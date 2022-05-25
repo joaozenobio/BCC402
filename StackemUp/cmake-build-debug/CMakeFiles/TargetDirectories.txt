@@ -1,0 +1,3 @@
+/home/joaozenobio/CLionProjects/StackemUp/cmake-build-debug/CMakeFiles/StackemUp.dir
+/home/joaozenobio/CLionProjects/StackemUp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joaozenobio/CLionProjects/StackemUp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

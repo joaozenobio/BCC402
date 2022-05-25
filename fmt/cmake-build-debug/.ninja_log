@@ -1,0 +1,4 @@
+# ninja log v5
+1	18	1652473959061434672	CMakeFiles/fmt.dir/src/main.c.o	8be88d6d9e18b53b
+0	20	1652473959069434246	CMakeFiles/fmt.dir/src/fmt.c.o	9b1d146a1a4b4108
+20	31	1652473959081433606	fmt	650cb093c0c2f8c

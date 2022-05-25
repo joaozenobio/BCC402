@@ -1,0 +1,19 @@
+# ninja log v5
+0	23	1653440255021699859	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/main.c.o	74c03a399e58a2aa
+1	40	1653440255037699110	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o	f3f39c6bd6e64e3d
+40	52	1653440255053698362	TheStern_BrocotNumberSystem	edb16c7e5427b7bc
+0	25	1653440335085963826	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o	f3f39c6bd6e64e3d
+25	38	1653440335097963268	TheStern_BrocotNumberSystem	edb16c7e5427b7bc
+0	18	1653440353569104512	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/main.c.o	74c03a399e58a2aa
+19	31	1653440353585103769	TheStern_BrocotNumberSystem	edb16c7e5427b7bc
+0	18	1653440515188076901	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/main.c.o	74c03a399e58a2aa
+0	25	1653440515196077716	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o	f3f39c6bd6e64e3d
+25	37	1653440515208078936	TheStern_BrocotNumberSystem	edb16c7e5427b7bc
+1	28	1653440549791334359	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o	f3f39c6bd6e64e3d
+28	41	1653440549807335746	TheStern_BrocotNumberSystem	edb16c7e5427b7bc
+0	24	1653440637313492274	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o	f3f39c6bd6e64e3d
+24	37	1653440637325492944	TheStern_BrocotNumberSystem	edb16c7e5427b7bc
+0	27	1653440867168434641	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o	f3f39c6bd6e64e3d
+27	39	1653440867184434819	TheStern_BrocotNumberSystem	edb16c7e5427b7bc
+0	42	1653441030560951443	CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o	f3f39c6bd6e64e3d
+42	57	1653441030576951388	TheStern_BrocotNumberSystem	edb16c7e5427b7bc

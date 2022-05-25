@@ -1,0 +1,3 @@
+/home/joaozenobio/CLionProjects/fmt/cmake-build-debug/CMakeFiles/fmt.dir
+/home/joaozenobio/CLionProjects/fmt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joaozenobio/CLionProjects/fmt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

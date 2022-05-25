@@ -1,0 +1,7 @@
+# ninja log v5
+0	18	1652472982949622995	CMakeFiles/AustralianVoting.dir/main.c.o	c7cc8a46d6d45043
+0	22	1652472982957623069	CMakeFiles/AustralianVoting.dir/src/AustralianVoting.c.o	b57d2fd36356e137
+22	33	1652472982969623180	AustralianVoting	3c8fce14b16e485d
+0	9	1652473268996721495	build.ninja	8dda4510388b811f
+0	14	1652473269016718167	CMakeFiles/AustralianVoting.dir/src/main.c.o	b90170c5c4b1533f
+15	27	1652473269028716175	AustralianVoting	68c4ad0a1de3dd48

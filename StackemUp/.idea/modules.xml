@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AustralianVoting.iml" filepath="$PROJECT_DIR$/.idea/AustralianVoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StackemUp.iml" filepath="$PROJECT_DIR$/.idea/StackemUp.iml" />
     </modules>
   </component>
 </project>

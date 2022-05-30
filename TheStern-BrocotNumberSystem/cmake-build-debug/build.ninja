@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/cmake-build-debug/
+cmake_ninja_workdir = /home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target TheStern_BrocotNumberSystem
 
@@ -49,19 +49,19 @@ cmake_ninja_workdir = /home/joaozenobio/CLionProjects/TheStern-BrocotNumberSyste
 
 build cmake_object_order_depends_target_TheStern_BrocotNumberSystem: phony || CMakeFiles/TheStern_BrocotNumberSystem.dir
 
-build CMakeFiles/TheStern_BrocotNumberSystem.dir/src/main.c.o: C_COMPILER__TheStern_BrocotNumberSystem_Debug /home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/src/main.c || cmake_object_order_depends_target_TheStern_BrocotNumberSystem
+build CMakeFiles/TheStern_BrocotNumberSystem.dir/src/main.c.o: C_COMPILER__TheStern_BrocotNumberSystem_Debug /home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/src/main.c || cmake_object_order_depends_target_TheStern_BrocotNumberSystem
   DEP_FILE = CMakeFiles/TheStern_BrocotNumberSystem.dir/src/main.c.o.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -I/home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/src
+  INCLUDES = -I/home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/src
   OBJECT_DIR = CMakeFiles/TheStern_BrocotNumberSystem.dir
   OBJECT_FILE_DIR = CMakeFiles/TheStern_BrocotNumberSystem.dir/src
   TARGET_COMPILE_PDB = CMakeFiles/TheStern_BrocotNumberSystem.dir/
   TARGET_PDB = TheStern_BrocotNumberSystem.pdb
 
-build CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o: C_COMPILER__TheStern_BrocotNumberSystem_Debug /home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/src/TheStern-BrocotNumberSystem.c || cmake_object_order_depends_target_TheStern_BrocotNumberSystem
+build CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o: C_COMPILER__TheStern_BrocotNumberSystem_Debug /home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/src/TheStern-BrocotNumberSystem.c || cmake_object_order_depends_target_TheStern_BrocotNumberSystem
   DEP_FILE = CMakeFiles/TheStern_BrocotNumberSystem.dir/src/TheStern-BrocotNumberSystem.c.o.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -I/home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/src
+  INCLUDES = -I/home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/src
   OBJECT_DIR = CMakeFiles/TheStern_BrocotNumberSystem.dir
   OBJECT_FILE_DIR = CMakeFiles/TheStern_BrocotNumberSystem.dir/src
   TARGET_COMPILE_PDB = CMakeFiles/TheStern_BrocotNumberSystem.dir/
@@ -89,7 +89,7 @@ build TheStern_BrocotNumberSystem: C_EXECUTABLE_LINKER__TheStern_BrocotNumberSys
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/cmake-build-debug && /home/joaozenobio/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/cmake/linux/bin/ccmake -S/home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem -B/home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/cmake-build-debug
+  COMMAND = cd /home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/cmake-build-debug && /home/joaozenobio/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/cmake/linux/bin/ccmake -S/home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem -B/home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/cmake-build-debug
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -101,7 +101,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/cmake-build-debug && /home/joaozenobio/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem -B/home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/cmake-build-debug
+  COMMAND = cd /home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/cmake-build-debug && /home/joaozenobio/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem -B/home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -117,7 +117,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /home/joaozenobio/CLionProjects/TheStern-BrocotNumberSystem/cmake-build-debug
+# Folder: /home/joaozenobio/CLionProjects/BCC402/TheStern-BrocotNumberSystem/cmake-build-debug
 
 build all: phony TheStern_BrocotNumberSystem
 

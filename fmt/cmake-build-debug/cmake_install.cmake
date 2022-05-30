@@ -1,4 +1,4 @@
-# Install script for directory: /home/joaozenobio/CLionProjects/fmt
+# Install script for directory: /home/joaozenobio/CLionProjects/BCC402/fmt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/joaozenobio/CLionProjects/fmt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/joaozenobio/CLionProjects/BCC402/fmt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

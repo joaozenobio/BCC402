@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="wertyu" targetName="wertyu" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19a4ffa9-fcf6-4a98-b021-751fd2881b37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/BCC402.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4c225279d8cba30da3aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-54251a0bf9354e0487b1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/reply/target-AbelhaMaja-Debug-d02a9157fac403f802c9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/data/input/example.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/src/AbelhaMaja.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/src/AbelhaMaja.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbelhaMaja/src/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AustralianVoting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AustralianVoting/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDVII/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDVII/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackemUp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackemUp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c23a2a28d032005b04d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-54c2f03a7fb72a8bdc44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-30T19-51-25-0097.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheTrip/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheTrip/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b67cd4fc8ab3cacdd74f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-30T19-51-41-0940.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-30T19-50-44-0045.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbelhaMaja.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/.idea/AustralianVoting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a197455be93afab2118d.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0ede64d66f8d95128fc3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3fd4d1b202fb61c5e3a2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-60896e2d301f0161b6a8.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-458bf0972ab8accfe250.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-13T20-21-09-0003.json" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-30T19-51-06-0097.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/target-AustralianVoting-Debug-41c93b398666db75890d.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/target-AustralianVoting-Debug-8053e5b16a545ce58cf7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/AustralianVoting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/.idea/AustralianVoting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f2b4a62d75508e04c580.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/cache-v2-da3a6540aa76776c20af.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a8098ef9f87d22292184.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d10429751ef50fa0ac66.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1d48658e06cb93fcccb9.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d3b5ce3045416e8ab043.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-13T20-30-24-0601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/target-CDVII-Debug-74d5be2efbb7be80b56a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/target-CDVII-Debug-b12841cfb5066bac05fc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CDVII" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CDVII/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/.idea/AustralianVoting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/cache-v2-191849a0675ffcd55e7c.json" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/cache-v2-aa05f27d8b7ad30be2c3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4b4aa79ea11e8217793d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b791c875f87a54263bdc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1b593745558305d2ecce.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-13T20-41-52-0261.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CDVII/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-30T19-50-23-0886.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/target-StackemUp-Debug-080c997b405fbc8aba2a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.cmake/api/v1/reply/target-StackemUp-Debug-e18c905d67702fbd3982.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/StackemUp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../StackemUp/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/.idea/TheStern_BrocotNumberSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c7f85d86f1eb4ad4b690.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ee6a44919c983926a8a1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a757e3632ef8c6b3c766.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-bdd232bf0c5d9dd46a84.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b62eb4231e302093e5d3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-990037b83e6a476698d6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-24T21-56-09-0611.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-30T19-50-06-0603.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/target-TheStern_BrocotNumberSystem-Debug-b641381ed0c59f4a0e00.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.cmake/api/v1/reply/target-TheStern_BrocotNumberSystem-Debug-493bc1d8961c03c89030.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/TheStern_BrocotNumberSystem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TheStern-BrocotNumberSystem/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/.idea/AustralianVoting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c94feb2cae6c1f2bfd80.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d0712708dad887a5b7b2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-283b26fb634bad64d142.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8dbe20374005036868a8.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c5cfe12dcbafd34183a9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-13T20-44-34-0310.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/target-TheTrip-Debug-97a50080f1ff688a0941.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.cmake/api/v1/reply/target-TheTrip-Debug-83075f87695cfc428c81.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/TheTrip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTrip/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/.idea/AustralianVoting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/cache-v2-394c31d2786466fd087d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-299003bd2cd61c818b1b.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AustralianVoting/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a772606fcd0fbc9ed641.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a05a8e8ca7e276a05fb1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0b51a89b18d7d5e0ae16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-13T20-32-27-0034.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/target-fmt-Debug-30abcc263e625622f457.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/target-fmt-Debug-5213dc3ab6d248586bb9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fmt/cmake-build-debug/fmt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AustralianVoting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-90313d42c9329aecd580.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/cache-v2-89d84c85118822d8d3a3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-cef3333e28c6db58b2fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fmt/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-186cbbe7fc8bc64f083e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f248eaf3f55ece4df037.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-13T21-09-14-0851.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-30T19-49-05-0076.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-wertyu-Debug-8231ce7e928f12d98a19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1a22d9ad962073fe4f39.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1a22d9ad962073fe4f39.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../AbelhaMaja/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/wertyu" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectId" id="29tlYZY8R2Jdfa4RAtygX2Bcwbr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/joaozenobio/CLionProjects/BCC402/wertyu"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wertyu" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wertyu" TARGET_NAME="wertyu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="wertyu" RUN_TARGET_NAME="wertyu">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19a4ffa9-fcf6-4a98-b021-751fd2881b37" name="Changes" comment="" />
+      <created>1653940310427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653940310427</updated>
+      <workItem from="1653940311517" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

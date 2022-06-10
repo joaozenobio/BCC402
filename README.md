@@ -12,3 +12,6 @@ Obs: Os códigos se referem ao número do problema no site URI Online Judge.
 * The Stern-Brocot Number System (10077)
 * Expressions (10157)
 * Bee Maja (10182)
+
+Para executar os código basta executar o arquivo bash encontrado no subdiretório específico do problema.
+Para alterar a entrada do problema, basta editar o arquivo "input.txt" encontrada na pasta data do subdiretório específico do problema.

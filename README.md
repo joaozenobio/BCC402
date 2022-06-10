@@ -14,6 +14,6 @@
 
 ### Para executar os código basta executar o arquivo bash encontrado no subdiretório específico do problema.
 
-### Para alterar a entrada do problema, basta editar o arquivo "input.txt" encontrada na pasta data do subdiretório específico do problema.
+### Para alterar a entrada do problema, basta editar o arquivo "example.in" encontrada na pasta data/input do subdiretório específico do problema.
 
 ### Obs: Os códigos se referem ao número do problema no site URI Online Judge.

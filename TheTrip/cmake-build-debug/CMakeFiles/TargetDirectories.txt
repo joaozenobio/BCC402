@@ -1,3 +1,0 @@
-/home/joaozenobio/CLionProjects/BCC402/TheTrip/cmake-build-debug/CMakeFiles/TheTrip.dir
-/home/joaozenobio/CLionProjects/BCC402/TheTrip/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/joaozenobio/CLionProjects/BCC402/TheTrip/cmake-build-debug/CMakeFiles/rebuild_cache.dir

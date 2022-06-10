@@ -1,3 +1,0 @@
-/home/joaozenobio/CLionProjects/BCC402/CDVII/cmake-build-debug/CMakeFiles/CDVII.dir
-/home/joaozenobio/CLionProjects/BCC402/CDVII/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/joaozenobio/CLionProjects/BCC402/CDVII/cmake-build-debug/CMakeFiles/rebuild_cache.dir

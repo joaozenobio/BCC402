@@ -1,2 +1,3 @@
+gcc src/main.c src/CDVII.c src/CDVII.h -o CDVII
 mkdir -p data/output
-./cmake-build-debug/CDVII < ./data/input/example.in > ./data/output/example.out
+./CDVII < ./data/input/example.in > ./data/output/example.out

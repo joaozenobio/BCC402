@@ -1,2 +1,3 @@
+gcc src/main.c src/Expressions.c src/Expressions.h -o Expressions
 mkdir -p data/output
-./cmake-build-debug/Expressions < ./data/input/example.in > ./data/output/example.out
+./Expressions < ./data/input/example.in > ./data/output/example.out

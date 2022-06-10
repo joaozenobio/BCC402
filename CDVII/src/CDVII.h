@@ -2,8 +2,8 @@
 // Created by joaozenobio on 13/05/22.
 //
 
-#ifndef PARTE1_CDVII_H
-#define PARTE1_CDVII_H
+#ifndef CDVII_H
+#define CDVII_H
 
 
 #include <time.h>
@@ -38,4 +38,4 @@ int compRecord(const void *a, const void *b);
 int cdvii();
 
 
-#endif //PARTE1_CDVII_H
+#endif //CDVII_H

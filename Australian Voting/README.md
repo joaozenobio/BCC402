@@ -38,12 +38,19 @@ of each two consecutive cases are separated by a blank line.
 3
 
 John Doe
+
 Jane Smith
+
 Jane Austen
+
 123
+
 213
+
 231
+
 123
+
 312
 
 # Sample Output

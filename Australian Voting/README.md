@@ -1,43 +1,50 @@
-# 10137 The Trip
+# 1.6.8 Australian Voting
 
-A number of students are members of a club that travels annually to exotic locations. Their destinations
-in the past have included Indianapolis, Phoenix, Nashville, Philadelphia, San Jose, and Atlanta. This
-spring they are planning a trip to Eindhoven.
+PC/UVa IDs:110108/10142,Popularity:B,Success rate:low Level: 1
 
-The group agrees in advance to share expenses equally, but it is not practical to have them share
-every expense as it occurs. So individuals in the group pay for particular things, like meals, hotels, taxi
-rides, plane tickets, etc. After the trip, each student’s expenses are tallied and money is exchanged so
-that the net cost to each is the same, to within one cent. In the past, this money exchange has been
-tedious and time consuming. Your job is to compute, from a list of expenses, the minimum amount of
-money that must change hands in order to equalize (within a cent) all the students’ costs.
+Australian ballots require that voters rank all the candidates in order of choice.
+Initially only the first choices are counted, and if one candidate receives more than 50%
+of the vote then that candidate is elected. However, if no candidate receives more than
+50%, all candidates tied for the lowest number of votes are eliminated. Ballots ranking
+these candidates first are recounted in favor of their highest-ranked non-eliminated
+candidate. This process of eliminating the weakest candidates and counting their ballots
+in favor of the preferred non-eliminated candidate continues until one candidate receives
+more than 50% of the vote, or until all remaining candidates are tied.
 
-**Input**
+### Input
 
-Standard input will contain the information for several trips. The information for each trip consists of
-a line containing a positive integer,n, the number of students on the trip, followed bynlines of input,
-each containing the amount, in dollars and cents, spent by a student. There are no more than 1000
-students and no student spent more than $10,000.00. A single line containing 0 follows the information
-for the last trip.
+The input begins with a single positive integer on a line by itself indicating the number
+of cases following, each as described below. This line is followed by a blank line. There
+is also a blank line between two consecutive inputs.
+The first line of each case is an integern≤20 indicating the number of candidates.
+The nextnlines consist of the names of the candidates in order, each up to 80 char-
+acters in length and containing any printable characters. Up to 1,000 lines follow, each
+containing the contents of a ballot. Each ballot contains the numbers from 1 tonin
+some order. The first number indicates the candidate of first choice; the second number
+indicates candidate of second choice, and so on.
 
-**Output**
+### Output
 
-For each trip, output a line stating the total amount of money, in dollars and cents, that must be
-exchanged to equalize the students’ costs.
+The output of each test case consists of either a single line containing the name of the
+winner or several lines containing the names of all candidates who are tied. The output
+of each two consecutive cases are separated by a blank line.
+
+## Example
 
 **Sample Input**
 
+1
+
 3
-10.
-20.
-30.
-4
-15.
-15.
-3.
-3.
-0
+John Doe
+Jane Smith
+Jane Austen
+123
+213
+231
+123
+312
 
-**Sample Output**
+# Sample Output
 
-$10.
-$11.
+John Doe

@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module classpath="CMake" type="CPP_MODULE" version="4" />
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Australian Voting/data/output" />
+      <excludeFolder url="file://$MODULE_DIR$/Bee Maja/data/output" />
+      <excludeFolder url="file://$MODULE_DIR$/Bee Maja/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/CDVII/data/output" />
+      <excludeFolder url="file://$MODULE_DIR$/CDVII/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/Expressions/data/output" />
+      <excludeFolder url="file://$MODULE_DIR$/Expressions/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/Stack'em Up/data/output" />
+      <excludeFolder url="file://$MODULE_DIR$/Stack'em Up/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/The Stern-Brocot Number System/data/output" />
+      <excludeFolder url="file://$MODULE_DIR$/The Stern-Brocot Number System/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/The Trip/data/output" />
+      <excludeFolder url="file://$MODULE_DIR$/The Trip/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/WERTYU/data/output" />
+      <excludeFolder url="file://$MODULE_DIR$/WERTYU/bin" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

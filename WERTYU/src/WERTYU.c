@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-#include "wertyu.h"
+#include "WERTYU.h"
 
 int wertyu() {
 	char** teclado =(char**) malloc(4*sizeof(char*));

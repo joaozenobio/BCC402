@@ -1,3 +1,10 @@
+# IDE
+.ideia/
+
+# Outputs
+bin/
+output/
+
 # Prerequisites
 *.d
 

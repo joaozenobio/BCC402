@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "wertyu.h"
+#include "WERTYU.h"
 
 int main() {
     wertyu();

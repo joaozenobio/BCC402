@@ -1,2 +1,4 @@
+mkdir -p bin
+gcc src/main.c src/TheTrip.c src/TheTrip.h -o bin/TheTrip
 mkdir -p data/output
-./cmake-build-debug/TheTrip < ./data/input/example.in > ./data/output/example.out
+./bin/TheTrip < ./data/input/example.in > ./data/output/example.out

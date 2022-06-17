@@ -31,6 +31,7 @@ For example, the length of “()(())()” is 8, and its depth is 2. What is the 
 **Input**
 
 Input consists of lines of pairs of two integers - n and d, at most one pair on line, 2 ≤ n ≤ 300, 1 ≤ d ≤ 150. The number of lines in the input file is at most 20, the input may contain empty lines, which you don’t need to consider.
+
 **Output**
 
 For every pair of integers in the input write single integer on one line - the number of correctly built parenthesis expressions of length n and depth d.

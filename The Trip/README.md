@@ -24,6 +24,8 @@ for the last trip.
 For each trip, output a line stating the total amount of money, in dollars and cents, that must be
 exchanged to equalize the students’ costs.
 
+## Example
+
 **Sample Input**
 
 3
